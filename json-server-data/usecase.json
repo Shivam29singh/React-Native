@@ -1,58 +1,40 @@
 {
   "allproducts": [
     {
-      "productName": "mobile",
-      "productPrice": "20000",
-      "productimage": "https://i.ytimg.com/vi/8fojY1M4ts0/hqdefault.jpg",
-      "productDescription": "good featured mobile",
-      "productStock": "25",
-      "productCategory": "Electronics",
-      "id": 5
-    },
-    {
-      "productName": "ashok",
-      "productPrice": "fgvhbjn",
-      "productDescription": "fgvhbjn",
-      "productStock": "20",
-      "productCategory": "Electronics",
-      "productimage": "https://i.ytimg.com/vi/8fojY1M4ts0/hqdefault.jpg",
-      "id": 6
-    },
-    {
       "id": 11,
-      "productName": "hehe",
-      "productimage": "",
+      "productName": "laptop",
+      "productimage": "https://rukminim1.flixcart.com/image/312/312/kdnf98w0/computer/3/s/y/asus-na-gaming-laptop-original-imafug9cqukzv8kx.jpeg?q=70",
       "productPrice": "25",
-      "productDescription": "vghb",
+      "productDescription": "Asus laptop",
       "productStock": "50",
-      "productCategory": ""
+      "productCategory": "Electronics"
     },
     {
       "id": 12,
       "productName": "mobile",
-      "productimage": "",
-      "productPrice": "50000",
-      "productDescription": "good mobile",
+      "productimage": "https://rukminim1.flixcart.com/image/312/312/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg?q=70",
+      "productPrice": "40000",
+      "productDescription": "iphone",
       "productStock": "25",
       "productCategory": ""
     },
     {
       "id": 13,
-      "productName": "mobile",
-      "productimage": "",
-      "productPrice": "50000",
-      "productDescription": "good mobile",
+      "productName": "jeans",
+      "productimage": "https://rukminim1.flixcart.com/image/580/696/k0e66q80/jean/y/s/4/32-l36164248smu-lee-original-imafk7y4fdh2jgsp.jpeg?q=50",
+      "productPrice": "5000",
+      "productDescription": "nike jeans",
       "productStock": "25",
-      "productCategory": ""
+      "productCategory": "clothing"
     },
     {
       "id": 14,
-      "productName": "shirt",
-      "productimage": "https://assets.ajio.com/medias/sys_master/root/ha7/he7/15216784474142/-288Wx360H-461085141-blue-MODEL.jpg",
-      "productPrice": "1199",
-      "productDescription": "Nice Shirt",
-      "productStock": "2",
-      "productCategory": "clothing"
+      "productName": "laptop",
+      "productimage": "https://rukminim1.flixcart.com/image/312/312/kdnf98w0/computer/3/s/y/asus-na-gaming-laptop-original-imafug9cqukzv8kx.jpeg?q=70",
+      "productPrice": "1",
+      "productDescription": "laptop",
+      "productStock": "yes",
+      "productCategory": "Electronics"
     }
   ]
 }
