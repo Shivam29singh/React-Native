@@ -166,12 +166,15 @@ const styles = StyleSheet.create({
   },
   button1: {
     width: 200,
-    marginTop: 30,
+    marginTop: 50,
+    marginLeft: "auto",
+    marginRight: "auto",
   },
   button2: {
     width: 200,
     marginTop: 30,
-    marginLeft: 5,
+    marginLeft: "auto",
+    marginRight: "auto",
     borderWidth: 2,
   },
 });
